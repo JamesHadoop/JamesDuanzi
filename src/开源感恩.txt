@@ -1,0 +1,13 @@
+《开源感恩》
+        作为一个长年向开源社区索取的无贡献者，感恩2018年从开源社区学到的知识。为了回馈社区，我决定新春佳节把我的段子以Apache License的形式开源出来，项目与证书如下：
+https://github.com/JamesHadoop/JamesDuanzi
+
+                                 Apache License
+                           Version 2.0, February
+ 2019
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+       BALABALA…

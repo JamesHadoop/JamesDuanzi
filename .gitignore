@@ -1,0 +1,9 @@
+/target/
+/mybatisGenerator/
+.project
+/.settings/
+/.idea/
+*.iml
+/src/main/resources/data
+*.log
+.idea
